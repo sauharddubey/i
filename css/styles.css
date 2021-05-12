@@ -1,0 +1,206 @@
+
+body{
+  background-color: black;
+text-align: center;
+font-family: 'Amatic SC', cursive;
+
+
+}
+h1{
+   display: inline-block;
+
+  color: black;
+  font-family: 'Sedgwick Ave Display', cursive;
+  margin-top: 70px;
+
+font-size: 3rem;
+
+
+}
+
+h2{
+font-size: 2.5rem;
+}
+h3{ font-size: 1.5rem;
+color: black;}
+hr{
+    width: 10%;
+
+    border-width: 4px;
+    border-style: none;
+    border-bottom-style: dotted;
+}
+
+
+.topcontainer{ background-color: #56776c;
+  margin-top: 200px;
+
+  height : 800px;
+  width:100%;
+margin: auto;
+
+position: relative;
+
+margin-bottom: 5px;
+
+}
+.title{margin: auto;
+  position: absolute;
+  top: 25%;
+  left: 40%;
+}
+
+.rightpic{
+  position: absolute;
+  left: 15%;
+  bottom: 15%;
+
+}
+.leftpic{
+  position: absolute;
+  right: 15%;
+  top: 20%
+
+}
+.btmpic
+{position: absolute;
+  bottom: 10%;
+left: 42%
+}
+.toppic
+{position: absolute;
+  width:20%;
+  top: 6%;
+left: 42%
+}
+
+/*-------------------------------mid container------------------------------*/
+
+.midcontainer{
+  height: 600px;
+  width: 100%;
+  background-color: #1687a7;
+  margin-bottom: 5px;
+
+
+  position: relative;
+}
+.profile
+{
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 20px;
+
+  height: 240px;
+  width: 240px;
+
+  border-color: black;
+  border-radius: 40px;
+
+
+
+}
+
+
+/*-------------------------------bottom container------------------------------*/
+
+
+.bottomcontainer{
+  height: 1300px;
+  width: 100%;
+  background-color: #276678;
+  position: relative;
+
+}
+
+.row1{
+  background-color: #276678;
+  height: 650px;
+  width:50%;
+  position:absolute;
+  left:0;
+}
+.row2{
+  background-color: #d3e0ea;
+  margin: 0;
+  height: 650px;
+  width:50%;
+  position:absolute;
+  right:0;
+
+
+}
+
+.row3{
+  background-color: #276678;
+  margin: 0;
+  height: 650px;
+  width:50%;
+  position:absolute;
+  right:0;
+  bottom: 0;
+}
+
+.row4{
+  background-color: #d3e0ea;
+  margin: 0;
+  height: 650px;
+  width:50%;
+  position:absolute;
+  left:0;
+  bottom: 0;
+}
+
+.programing{position: relative;
+height: 130px;
+margin: 0 auto 0 auto;
+color: black;}
+
+
+.languages{
+  position: relative;
+  top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+color: black;
+
+}
+
+/*-------------------------------contact container------------------------------*/
+
+.contact{
+  height: 600px;
+  width: 100%;
+  background-color: #d3e0ea;
+  position: relative;
+
+}
+a:link{color: white;
+       margin: 10px 20px;
+       text-decoration: none;
+     }
+    a:hover{
+      color: red;
+    }
+
+.contactus{position: relative;
+top: 15px;
+margin-left: auto;
+margin-right: auto;
+color: white;
+
+
+}
+/*-------------------------------refff container------------------------------*/
+.low{
+  width: 100%;
+  padding-top: 15px;
+  background-color: #1687a7;
+  display: inline-block;
+  color: black;
+
+}
+.b{
+  color: black;
+}
